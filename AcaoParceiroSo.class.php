@@ -5,6 +5,8 @@
  */
 class AcaoParceiroSo extends Action {
 	
+	//teste 00022
+	
 	private $objAcaoParceiro;
 	public function __construct(){
 	}
