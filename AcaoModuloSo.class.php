@@ -3,6 +3,9 @@
  * Classe responsável pelo controle dos módulos.
  */
 class AcaoModuloSo extends Action {
+	
+	//TESTE GIT 001
+	
 	private $objAcaoModulo;
 	private $modIdfAnt;
 	public function __construct($modIdf="")
