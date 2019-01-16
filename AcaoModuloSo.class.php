@@ -11,7 +11,7 @@ class AcaoModuloSo extends Action {
 	public function __construct($modIdf="")
 	{
 		$this->modIdfAnt = $modIdf;
-		//new data 16012019
+		//new data 16012019 16:08
 	}
 
 	public function pesquisar($sPag, $idfAcao, $iTodos="NULL")
